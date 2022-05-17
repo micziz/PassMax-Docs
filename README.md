@@ -1,2 +1,2 @@
-# PassMax-Docs
+# PassMax Docs
 Official PassMax Documnetation
